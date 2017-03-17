@@ -1,0 +1,20 @@
+Kevin HSieh 
+861054367
+khsie003
+#1
+The tapes you'd need to restore the file system are all the files from Jan 15 to Jan 21.
+The good thing about having this many incremental backups is that it is much easier to restore the file system.
+The downside to having this many incremental backups is that you would have to keep track of which back ups to use when restoring a file system, and it takes longer to make the back up tapes.
+
+
+#2
+Given ip: 10.3.12.2
+      (a) Class A
+      (b) The netmask would be 255.0.0.0, and in CIDR notation /8
+      (c.1) 10.3.12.1 is the default gateway ip address
+      (c.2) 10.3.12.255 is the broadcast ip address
+
+
+
+
+
